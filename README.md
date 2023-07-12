@@ -1,2 +1,16 @@
-# todo-app
- A simple to-do app is a tool that helps you keep track of your tasks. You can create, edit, and delete tasks, as well as mark them as completed.A simple to-do app can be a helpful tool for anyone who wants to stay organized and on top of their tasks. It is a simple and easy-to-use tool that can help you get things done.
+# todo_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
